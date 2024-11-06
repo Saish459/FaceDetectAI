@@ -1,5 +1,4 @@
 # FaceDetectAI
-🛠 ➡️ 🏡 Model building from scratch
 
 ## 👁️ About 👨‍💻
 
